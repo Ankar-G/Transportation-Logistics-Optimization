@@ -502,7 +502,7 @@ Slicers on all three dashboards show single selections (e.g., Destination = Agra
 > Replace the paths below with your actual image files.
 
 ### Dashboard 1: Transportation Performance Overview
-![Transportation Performance Overview](images/dashboard_1_transportation_performance.png)
+![Transportation Performance Overview](https://github.com/Ankar-G/Transportation-Logistics-Optimization/blob/main/Dashbaords%20SS/Screenshot%202026-10-14%20121800.png)
 
 ### Dashboard 2: Carrier & Route Optimization
 ![Carrier & Route Optimization](images/dashboard_2_carrier_route_optimization.png)
