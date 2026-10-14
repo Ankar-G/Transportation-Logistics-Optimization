@@ -505,21 +505,20 @@ Slicers on all three dashboards show single selections (e.g., Destination = Agra
 ![Transportation Performance Overview](https://github.com/Ankar-G/Transportation-Logistics-Optimization/blob/main/Dashbaords%20SS/Screenshot%202026-10-14%20121800.png)
 
 ### Dashboard 2: Carrier & Route Optimization
-![Carrier & Route Optimization](images/dashboard_2_carrier_route_optimization.png)
+![Carrier & Route Optimization](https://github.com/Ankar-G/Transportation-Logistics-Optimization/blob/main/Dashbaords%20SS/Screenshot%202026-10-14%20121817.png)
 
 ### Dashboard 3: Vehicle Utilization & Cost Saving
-![Vehicle Utilization & Cost Saving](images/dashboard_3_vehicle_utilization_cost_saving.png)
+![Vehicle Utilization & Cost Saving](https://github.com/Ankar-G/Transportation-Logistics-Optimization/blob/main/Dashbaords%20SS/Screenshot%202026-10-14%20121828.png)
 
 ---
 
 ## 19. Connect With Me
 
-**Name:** `[PLACEHOLDER]`
+**Name:** `[Ankar Goswami]`
 **Role:** Supply Chain / Data Analyst
-**LinkedIn:** `[PLACEHOLDER: link]`
-**GitHub:** `[PLACEHOLDER: link]`
-**Email:** `[PLACEHOLDER]`
-**Portfolio:** `[PLACEHOLDER]`
+**LinkedIn:** `[https://www.linkedin.com/in/ankar-goswami-23a196245/]`
+**GitHub:** `[PLACEHOLDER: https://github.com/Ankar-G]`
+**Email:** `[goswamijit99@gmail.com]`
 
 ---
 
